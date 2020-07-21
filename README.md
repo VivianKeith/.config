@@ -1,2 +1,2 @@
-# .config
+# config
 All my config.

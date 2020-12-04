@@ -1,0 +1,13 @@
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+Host Astlab-Server(HP)
+    HostName 10.134.92.88
+    User VivianKeith
+    Port 5555
+
+Host Astlab-Server(Huawei)
+    HostName 10.134.92.104
+    User astlab
+
+Host BUAA-HPC(Lini)
+    Hostname 10.212.66.4
+    User lini
